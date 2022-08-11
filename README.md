@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hudanyun Sheng (@DannieSheng)
-- 📫 I own some repos containing confidential materials, accessing those repo are upon request through email!
+- 📫 I own some repos with confidential materials, accessing those repo are upon request through email!
 - 👀 I’m interested in reading detective stories and baking
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning HTML, CSS, and Japanese
 - 💞️ I’m looking to collaborate on ...
 
 
