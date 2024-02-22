@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hudanyun Sheng (@DannieSheng)
-- 🧾 My resume with detailed projects: [check](https://github.com/DannieSheng/DannieSheng.github.io/blob/main/简历.md)
+- 🧾 My resume with detailed projects: [中文](https://github.com/DannieSheng/DannieSheng.github.io/blob/main/简历.md) | English version (to come)
 - 📫 I own some repos with confidential materials, accessing those repo are upon request through email!
 - 👀 I’m interested in reading detective stories and baking
 
