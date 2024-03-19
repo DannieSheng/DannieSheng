@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hudanyun Sheng (@DannieSheng)
 - 🧾 My resume (on [my personal website](https://danniesheng.github.io)): [English version](https://danniesheng.github.io/cv/) | [中文版](https://danniesheng.github.io/cv-cn/) 
-# - 🧾 My resume with detailed projects: [中文](https://github.com/DannieSheng/DannieSheng.github.io/blob/main/简历.md) | English version (to come)
 - 📫 I own some repos with confidential materials, accessing those repo are upon request through email!
 - 👀 I’m interested in reading detective stories and baking
 
@@ -10,6 +9,7 @@
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 
+# - 🧾 My resume with detailed projects: [中文](https://github.com/DannieSheng/DannieSheng.github.io/blob/main/简历.md) | English version (to come)
 DannieSheng/DannieSheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 [查看我的简历](https://github.com/DannieSheng/DannieSheng.github.io/blob/main/简历.md)
